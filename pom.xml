@@ -37,7 +37,7 @@
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
-        <javafx.version>11.0.2</javafx.version>
+        <javafx.version>16</javafx.version>
     </properties>
 
 
