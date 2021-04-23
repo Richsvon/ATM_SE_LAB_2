@@ -48,5 +48,6 @@
     <orderEntry type="library" name="org.openjfx:javafx-archetype-fxml:0.0.5" level="project" />
     <orderEntry type="library" name="org.openjfx:javafx-archetype-simple:0.0.5" level="project" />
     <orderEntry type="library" name="org.openjfx:javafx-swing:11" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-controls:12-ea+6" level="project" />
   </component>
 </module>
