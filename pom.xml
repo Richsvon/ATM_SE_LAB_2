@@ -34,21 +34,6 @@
             <artifactId>javafx-graphics</artifactId>
             <version>16</version>
         </dependency>
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-archetype-fxml</artifactId>
-            <version>0.0.5</version>
-        </dependency>
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-archetype-simple</artifactId>
-            <version>0.0.5</version>
-        </dependency>
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-swing</artifactId>
-            <version>11</version>
-        </dependency>
     </dependencies>
     <build>
         <plugins>
