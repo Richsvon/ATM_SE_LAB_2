@@ -71,9 +71,6 @@ public class AccountManagement {
                 setPassword(password);
                 return true;
             } else {
-                Alert alert = new Alert(Alert.AlertType.ERROR);
-                alert.setContentText("login failed");
-                alert.showAndWait();
                 return false;
             }
         } catch (SQLException throwables) {

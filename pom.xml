@@ -14,11 +14,6 @@
             <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-controls</artifactId>
-            <version>12-ea+6</version>
-        </dependency>
     </dependencies>
     <build>
         <plugins>
@@ -40,6 +35,5 @@
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
         <maven.compiler.target>16</maven.compiler.target>
-        <javafx.version>16</javafx.version>
     </properties>
 </project>
