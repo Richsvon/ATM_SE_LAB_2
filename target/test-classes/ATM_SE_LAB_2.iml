@@ -41,6 +41,9 @@
     <orderEntry type="library" name="junit:junit:4.13.1" level="project" />
     <orderEntry type="library" name="org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" name="surefire:surefire:1.4" level="project" />
+    <orderEntry type="library" name="mysql:mysql-connector-java:8.0.24" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-base:16" level="project" />
+    <orderEntry type="library" name="org.openjfx:javafx-controls:12-ea+6" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
   </component>
